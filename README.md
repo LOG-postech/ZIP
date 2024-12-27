@@ -51,7 +51,7 @@
   To address the challenge of dimensionality dependency (i.e., the number of queries scales with the dimensionality of the problem), we propose a novel low-rank representation. This approach reduces the dimensionality while effectively mitigating the loss of expressive power through feature sharing.
 
 - **Clipped Zeroth-order Optimization:**  
-  High variance in zeroth-order information can significantly degrade query efficiency. To tackle this, we propose a threshold-free gradient clipping method, termed **intrinsic dimensional clipping**. Inspired by prior studies on clipping thresholds, we set the clipping threshold to $\sqrt{\delta}$, which corresponds to the standard deviation of the zeroth-order gradient, where $\delta$ is the dimensionality of the problem. This approach not only reduces the variance of zeroth-order information but also achieves near-optimal performance without requiring manual tuning.
+  High variance in zeroth-order information can significantly degrade query efficiency. To tackle this, we propose a threshold-free gradient clipping method, termed **intrinsic dimensional clipping**. Inspired by prior studies on clipping thresholds, we set the clipping threshold to ``$ \sqrt{\delta} $``, which corresponds to the standard deviation of the zeroth-order gradient, where $\delta$ is the dimensionality of the problem. This approach not only reduces the variance of zeroth-order information but also achieves near-optimal performance without requiring manual tuning.
 
 - **Empirical Results:**  
   We extensively validate ZIP across **13+ datasets**, demonstrating its outstanding performance in _few-shot adaptability_ and _generalization on unseen distributions_.
@@ -65,7 +65,7 @@
 ### Clone the Repository
 Clone the ZIP repository from GitHub and navigate into the directory.
 ```shell
-git clone https://github.com/aaa/ZIP.git
+git clone https://github.com/LOG-postech/ZIP.git
 cd ZIP
 ```
 

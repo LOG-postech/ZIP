@@ -1,0 +1,11 @@
+ftfy
+regex
+tqdm
+pyyaml
+overrides
+spacy
+cma
+pypop7
+ninja
+torchinfo
+transformers

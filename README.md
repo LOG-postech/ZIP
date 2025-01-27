@@ -1,6 +1,6 @@
 # ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models
 
-> Official PyTorch Implementation of [**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**](https://openreview.net/forum?id=2OegVbwvY2) (Submitted to ICLR 2025)  
+> Official PyTorch Implementation of [**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**](https://openreview.net/forum?id=2OegVbwvY2) (ICLR 2025)  
 > **Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee**
 
 ---
@@ -234,12 +234,13 @@ For any questions, discussions, or proposals, please contact:
 If you use our code in your research, please consider citing:
 
 ```bibtex
-@InProceedings{ZIP,
-    author    = {ssss},
-    title     = {aaaa},
-    booktitle = {aaaa},
-    month     = {aaaa},
-    year      = {2024},
+@inproceedings{
+    park2025zip,
+    title={{ZIP}: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models},
+    author={Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=2OegVbwvY2}
 }
 ```
 

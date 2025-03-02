@@ -259,4 +259,4 @@ For baseline construction, we referred to and borrowed code from these repositor
 - [BAR](https://github.com/yunyuntsai/Black-box-Adversarial-Reprogramming)  
 - [BPTVLM](https://github.com/BruthYU/BPT-VLM)
 
-We express our gratitude to the authors of these works (Zhou et al., Mahabadi et al., Oh et al., Tsai et al., Yu et al.) for sharing their code and making their contributions available.
+We express our gratitude to Zhou _et al._, Mahabadi _et al._, Oh _et al._, Tsai _et al._, and Yu _et al._ for sharing their outstanding work and making their contributions available through open-source initiatives.

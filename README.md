@@ -260,5 +260,3 @@ For baseline construction, we referred to and borrowed code from these repositor
 - [BPTVLM](https://github.com/BruthYU/BPT-VLM)
 
 We express our gratitude to Zhou _et al._, Mahabadi _et al._, Oh _et al._, Tsai _et al._, and Yu _et al._ for sharing their outstanding work and making their contributions available through open-source initiatives.
-
-Additionally, our experiments utilized GPUs including Nvidia 3090, A6000, A100, and Intel Gaudi V2. The code for Gaudi support will be added and released shortly.

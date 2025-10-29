@@ -234,13 +234,11 @@ For any questions, discussions, or proposals, please contact:
 If you use our code in your research, please consider citing:
 
 ```bibtex
-@inproceedings{
-    park2025zip,
-    title={{ZIP}: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models},
-    author={Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee},
-    booktitle={The Thirteenth International Conference on Learning Representations},
-    year={2025},
-    url={https://openreview.net/forum?id=2OegVbwvY2}
+@article{park2025zip,
+  title={ZIP: An efficient zeroth-order prompt tuning for black-box vision-language models},
+  author={Park, Seonghwan and Jeong, Jaehyeon and Kim, Yongjun and Lee, Jaeho and Lee, Namhoon},
+  journal={arXiv preprint arXiv:2504.06838},
+  year={2025}
 }
 ```
 
